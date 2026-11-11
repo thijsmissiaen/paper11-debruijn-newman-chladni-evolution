@@ -1,6 +1,7 @@
 # Heat-Flow PDE Hierarchy on Jensen Invariants, Nodal-Curvature Zero Velocity, and Conditional Saddle Perturbation under De Bruijn–Newman Evolution
 
 **Author:** Thijs Missiaen (Independent Researcher, Belgium; ORCID: [0009-0007-3678-0810](https://orcid.org/0009-0007-3678-0810))  
+**DOI (Zenodo / CERN):** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24141073.svg)](https://doi.org/10.5281/zenodo.24141073) [`10.5281/zenodo.24141073`](https://doi.org/10.5281/zenodo.24141073) (`v11.1.0`: [`10.5281/zenodo.24141074`](https://doi.org/10.5281/zenodo.24141074))  
 **Series:** Paper XI (Revised Audit Edition)  
 **Manuscript:** [paper/paper11_debruijn_newman_chladni.pdf](paper/paper11_debruijn_newman_chladni.pdf) (11 pages, AMS-LaTeX / pdfTeX) | [paper/paper11_debruijn_newman_chladni.tex](paper/paper11_debruijn_newman_chladni.tex)  
 **Verification Suite:** [scripts/verify_paper11_debruijn_newman_chladni.py](scripts/verify_paper11_debruijn_newman_chladni.py) (Symbolic `SymPy` proofs for $m = 0, \dots, 6$ and $50$-decimal `mpmath` audit)

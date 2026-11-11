@@ -8,6 +8,7 @@ authors:
     orcid: "https://orcid.org/0009-0007-3678-0810"
 title: "Heat-Flow PDE Hierarchy on Jensen Invariants, Nodal-Curvature Zero Velocity, and Conditional Saddle Perturbation under De Bruijn-Newman Evolution"
 version: "11.1.0"
+doi: "10.5281/zenodo.24141073"
 date-released: "2026-11-11"
 url: "https://github.com/thijsmissiaen/paper11-debruijn-newman-chladni-evolution"
 repository-code: "https://github.com/thijsmissiaen/paper11-debruijn-newman-chladni-evolution"

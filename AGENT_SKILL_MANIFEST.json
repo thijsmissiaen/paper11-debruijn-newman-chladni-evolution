@@ -2,7 +2,8 @@
   "schema_version": "1.0.0",
   "name": "debruijn-newman-chladni-evolution",
   "title": "Heat-Flow PDE Hierarchy on Jensen Invariants, Nodal-Curvature Zero Velocity, and Conditional Saddle Perturbation under De Bruijn-Newman Evolution",
-  "version": "1.1.0",
+  "version": "11.1.0",
+  "doi": "10.5281/zenodo.24141073",
   "author": {
     "name": "Thijs Missiaen",
     "affiliation": "Independent Researcher, Belgium",
